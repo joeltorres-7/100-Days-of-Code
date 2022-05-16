@@ -123,3 +123,20 @@ Of course, I still need to set up a case study page for Gengo App, but, it is al
 **Link(s) to work**
 1. [PMD](https://pmd.github.io/)
 
+---
+
+### Day 14, 15: May 13 and May 14
+
+**Today's Progress**: After creating new repositories on my Github profile, I fixed some bugs on my website, added content transitions on scroll, and initialized a repository for Archifilm, a small business website for a client.
+
+**Link(s) to work**
+1. [Personal Website](https://www.joeltorres.me)
+2. [ArchiFilm | Repository](https://github.com/joeltorres-7/archifilm-files)
+
+---
+
+### Day 16: May 15, Thursday
+
+**Today's Progress**: I spent some time completing HackerRank challenges & made progress on the project presentation for Project Gengo.
+
+---
